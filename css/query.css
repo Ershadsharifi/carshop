@@ -1,0 +1,69 @@
+@media only screen and (max-width: 1200px){
+
+}
+@media only screen and (max-width: 992px){
+
+  .container-item-dealer{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .item-dealer{
+    flex-basis: 20rem;
+    margin-bottom: 2rem;
+  }
+  .inventory-item{
+    justify-content: center;
+  }
+  .inventory__item {
+    margin: 1rem;
+  }
+  .Transaction-left{
+    max-width: 20rem;
+  }
+  .Transaction-right{
+    max-width: 20rem;
+  }
+  .Transaction-container{
+    justify-content: center;
+  }
+  .featured-container{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .gallery-car-container{
+    justify-content: center;
+  }
+  .gallery-car-right{
+    max-width: 23rem;
+  }
+  .gallery-car-left{
+    max-width: 24rem;
+  }
+  .services-item{
+    width: 12rem;
+    height: 15rem;
+    margin: 2rem 3rem;
+  }
+  .say-items{
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .say-item{
+    margin: 3rem 1rem;
+  }
+  .footer-items{
+    justify-content: space-around;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .container{
+    max-width: 540px;
+  }
+  .inventory__item{
+    max-width: 35rem;
+  }
+  h1{  }
+}
+@media only screen and (max-width: 540px){
+
+}
